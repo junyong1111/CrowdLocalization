@@ -22,8 +22,9 @@ firebase-admin==5.3.0
 ```
 1. git clone 명령어를 통해 해당 repository 다운로드
 ```
-git clone https://github.com/Winter-Toy-Project/Honjab-Obseoye.git
+git clone https://github.com/junyong1111/CrowdLocalization.git
 ```
+- 위 명령어를 통해 깃 클론을 받고 FIDTM/Projcet로 경로 이동
 
 2. 아래 명령어를 통해 pre-trained model 다운로드 
 - gdown 명령어가 없을 경우 설치 후 진행
